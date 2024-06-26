@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 <urlset
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
             <loc>https://girodimo.github.io/contact/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://girodimo.github.io/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+=======
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>https://girodimo.github.io/contact/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://girodimo.github.io/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+>>>>>>> b26b40cfa0ebc2ef4718d616b2081e5763a6e3fd
